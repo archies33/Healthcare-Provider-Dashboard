@@ -21,7 +21,7 @@ File Structure
 <img width="2255" height="1270" alt="image" src="https://github.com/user-attachments/assets/8644a324-9a25-40b9-bb3e-5fd555ae24a1" />
 
 ##  **🎬 Live Demo**
-![Healthcare Dashboard Demo](![GIF](https://github.com/user-attachments/assets/968ac763-449c-4dd1-8c32-871380ac3325))
+![Healthcare Dashboard Demo](https://github.com/archies33/Healthcare-Provider-Dashboard/blob/main/GIF.gif)
 
 ## **📖 The Story Behind the Dashboard**
 
